@@ -1,5 +1,9 @@
 # KeyGen Hamster 🐹
 
+**Hamster Keygen Website: [https://saulgoodmanc99.github.io/KeygenHamster/](https://saulgoodmanc99.github.io/KeygenHamster/)**
+
+**hamster 钥匙生成网页: [https://saulgoodmanc99.github.io/KeygenHamster/](https://saulgoodmanc99.github.io/KeygenHamster/)**
+
 ## English Introduction
 
 KeyGen Hamster is a web-based tool designed to generate game keys for various applications. It provides a user-friendly interface for selecting different games and generating valid keys.
